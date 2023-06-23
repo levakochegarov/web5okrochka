@@ -1,0 +1,17 @@
+.main {
+    font-size: xx-large;
+    font-weight: 800;
+    text-align: center;
+    color: #E1ECC8;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.info {
+    font-size: large;
+    font-weight: 200;
+    color: #E1ECC8;
+}
